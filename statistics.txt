@@ -1,0 +1,6 @@
+THONG KE KET QUA HOC TAP
+
+SV001 - Diem trung binh: 8.5 - Dat
+SV002 - Diem trung binh: 7.5 - Dat
+SV003 - Diem trung binh: 9.0 - Dat
+
